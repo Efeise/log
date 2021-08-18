@@ -1,0 +1,22 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  button{
+    font-weight: bold;
+    
+  }
+  
+  h1{ font-size: 40px;
+    
+    
+  }
+  
+  p{
+    font-size: 30px;
+    
+  }
